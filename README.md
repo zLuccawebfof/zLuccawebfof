@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá! Eu sou o Lucca</h1>
 
-<p align="center">💻 Desenvolvedor Front-end em evolução | 🚀 Criando projetos e aprendendo todos os dias</p>
+<p align="center">💻 Desenvolvedor back-end em evolução | 🚀 Criando projetos e aprendendo todos os dias</p>
 
 ---
 
