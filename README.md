@@ -6,10 +6,31 @@
 
 ## 🌟 Sobre mim
 
-- 📚 Estudante e apaixonado por tecnologia  
-- 🎯 Buscando minha **primeira oportunidade** na área de programação  
-- ⚡ Focado em HTML, CSS, JavaScript e criação de interfaces modernas  
-- 🔍 Sempre aprendendo coisas novas e melhorando meus projetos  
+Sou estudante de Ciência da Computação, com foco
+em Programação, Desenvolvimento Web e Inteligência
+Artificial, e tenho grande interesse por tecnologia.
+Possuo conhecimentos em HTML, CSS, Python,
+JavaScript e Java, além da realização de projetos
+práticos ao longo dos cursos na área.
+
+Tenho familiaridade com conceitos fundamentais
+como lógica de negócio, banco de dados, fluxogramas,
+estruturas de repetição e programação orientada a
+objetos, incluindo o uso de classes e pacotes.
+
+Fui aprovado no processo seletivo da FOURSYS para
+participar do programa FOURCAMP, com foco em Java,
+onde venho aprofundando meus conhecimentos e
+práticas na linguagem e no desenvolvimento de
+aplicações.
+
+Busco minha primeira oportunidade profissional para
+aplicar e expandir meus conhecimentos, aprender
+com profissionais experientes e evoluir continuamente
+como desenvolvedor. Tenho perfil proativo, facilidade
+de aprendizado e estou sempre em busca de novos
+desafios e aprimoramento constante.
+
 
 ---
 
@@ -21,13 +42,16 @@
 - JavaScript  
 - Git & GitHub  
 
----
+### **Back-end**
+- Java
+- Python
 
 ## 📂 Projetos em Destaque
 
 - 👉 **Calculadora Web** – HTML, CSS e JS  
 - 👉 **Landing Page** – Página responsiva com layout moderno  
-- 👉 **Mini Projetos JS** – Animações, botões, lógica e interações  
+- 👉 **Mini Projetos JS** – Animações, botões, lógica e interações
+- 👉 Varios projetos em JAVA
 
 ---
 
